@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article>
+<article
+  xmlns="http://docbook.org/ns/docbook" version="5.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <info>
+    <title>#Sprako</title>
+  </info>
+  <para>
+    Go
+  </para>
+  <anchor xml:id="home" />
+  <anchor xml:id="website_templates" />
+  <section xml:id="welcome-to-sprako">
+    <title>Welcome to Sprako!</title>
+    <para>
+    </para>
+  </section>
+  <section xml:id="african-languages-guide">
+    <title>African languages guide</title>
+    <itemizedlist spacing="compact">
+      <listitem>
+        <para>
+          Featured nations
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Browse the catalogues!
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Learn common phrases!
+        </para>
+      </listitem>
+    </itemizedlist>
+    <para>
+       
+    </para>
+  </section>
+  <para>
+    <link xlink:href="Sepedi/index.html" role="thumbnail">377 blue
+    tech</link>
+  </para>
+  <para>
+    SEPEDI
+  </para>
+  <para>
+    <link xlink:href="Chibemba/index.html" role="thumbnail">376
+    secured</link>
+  </para>
+  <para>
+    CHIBEMBA
+  </para>
+  <para>
+    <link xlink:href="Swahili/index.html" role="thumbnail">374
+    responsive</link>
+  </para>
+  <para>
+    SWAHILLI
+  </para>
+  <para>
+    <link xlink:href="Owambo/index.html" role="thumbnail">373
+    nightlight</link>
+  </para>
+  <para>
+    OWAMBO
+  </para>
+  <para>
+    <link xlink:href="Chichewa/index.html" role="thumbnail">372
+    titanium</link>
+  </para>
+  <para>
+    CHICHEWA
+  </para>
+  <para>
+    <link xlink:href="Isizulu/index.html" role="thumbnail">369 music
+    gallery</link>
+  </para>
+  <para>
+    ISIZULU
+  </para>
+  <para>
+    <link xlink:href="SETSWANA/index.html" role="thumbnail">367
+    shoes</link>
+  </para>
+  <para>
+    SETSWANA
+  </para>
+  <para>
+    <link xlink:href="Comorian/index.html" role="thumbnail">365
+    orando</link>
+  </para>
+  <para>
+    COMORIAN
+  </para>
+  <anchor xml:id="mini_templates" />
+  <section xml:id="preservation-of-languages-in-technology-is-important.we-trust-this-language-guide-will-serve-as-a-translator-to-improve-your-knowledge-of-the-african-continent.">
+    <title><emphasis role="strong">Preservation of languages in
+    technology is important.We trust this language guide will serve as a
+    translator to improve your knowledge of the African
+    continent.</emphasis></title>
+    <para>
+    </para>
+  </section>
+  <para>
+    <link xlink:href="Fang/index.html" role="thumbnail">378
+    dragonfly</link>
+  </para>
+  <para>
+    FANG
+  </para>
+  <para>
+    <link xlink:href="Fulani/index.html" role="thumbnail">375 tech
+    layer</link>
+  </para>
+  <para>
+    FULANI
+  </para>
+  <para>
+    <link xlink:href="Malagasy/index.html" role="thumbnail">371
+    gallery</link>
+  </para>
+  <para>
+    MALAGASY
+  </para>
+  <para>
+    <link xlink:href="Ovimbundu/index.html" role="thumbnail">370
+    focus</link>
+  </para>
+  <para>
+    OVIMBUNDU
+  </para>
+  <para>
+    <link xlink:href="Tshivenda/index.html" role="thumbnail">368
+    connect</link>
+  </para>
+  <para>
+    TSHIVENDA
+  </para>
+  <para>
+    <link xlink:href="Sango/index.html" role="thumbnail">364 aqua</link>
+  </para>
+  <para>
+    SANGO
+  </para>
+  <para>
+    <link xlink:href="SHONA/index.html" role="thumbnail">363
+    metro</link>
+  </para>
+  <para>
+    SHONA
+  </para>
+  <para>
+    <link xlink:href="Yoruba/index.html" role="thumbnail">359
+    singular</link>
+  </para>
+  <para>
+    YORUBA
+  </para>
+  <para>
+     
+  </para>
+  <para>
+    <link xlink:href="Kirundu/index.html" role="thumbnail">359
+    singular</link>
+  </para>
+  <para>
+    <link xlink:href="Kirundu/index.html" role="thumbnail">KIRUNDU</link>
+  </para>
+  <anchor xml:id="flash_templates" />
+  <section xml:id="more-about-the-african-continent">
+    <title>More about the African continent</title>
+    <para>
+    </para>
+  </section>
+  <para>
+    <link linkend="flashmo_280_dynamic_stack" role="thumbnail">Dynamic
+    Stack</link>
+  </para>
+  <para>
+    Tour Guides
+  </para>
+  <para>
+    <link linkend="flashmo_279_stylish_gallery" role="thumbnail">Stylish
+    Gallery</link>
+  </para>
+  <para>
+    Agriculture
+  </para>
+  <para>
+    <link linkend="flashmo_276_new_era" role="thumbnail">New Era</link>
+  </para>
+  <para>
+    Science &amp; Technology
+  </para>
+  <para>
+    <link linkend="flashmo_273_alternative" role="thumbnail">Alternative</link>
+  </para>
+  <para>
+    Historical facts
+  </para>
+  <para>
+    <link linkend="flashmo_272_3d_zoom_gallery" role="thumbnail">Zoom
+    Gallery</link>
+  </para>
+  <para>
+    Music &amp; Entertainment
+  </para>
+  <para>
+    <link linkend="flashmo_269_dragonfly" role="thumbnail">Dragonfly</link>
+  </para>
+  <para>
+    Maps
+  </para>
+  <para>
+    <link linkend="flashmo_267_circular_pink" role="thumbnail">Circular
+    Pink</link>
+  </para>
+  <para>
+    Clothing/Fashion
+  </para>
+  <para>
+    <link linkend="flashmo_258_dark_focus" role="thumbnail">Dark
+    Focus</link>
+  </para>
+  <para>
+    Sports
+  </para>
+  <section xml:id="a">
+    <title>A</title>
+    <para>
+       
+    </para>
+    <para>
+       
+    </para>
+    <para>
+       
+    </para>
+    <para>
+       
+    </para>
+  </section>
+  <para>
+    Copyright © 2022 <link linkend="">Onke Solutions</link>
+  </para>
+</article>
